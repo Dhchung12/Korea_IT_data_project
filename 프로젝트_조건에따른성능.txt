@@ -1,0 +1,27 @@
+- AdaBoost,, Random Forest, SVM모델 사용하여 학습 및 성능확인
+AdaBoost Accuracy: 0.9188134270101483
+AdaBoost f1score: 0.6141414141414141
+Random Forest Accuracy: 0.9500390320062451
+Random Forest f1score: 0.8599048765113747
+SVM Accuracy: 0.9586260733801717
+SVM f1score: 0.8862894099079744
+
+- 사고유형 : 차량 단독
+AdaBoost Accuracy: 0.85
+AdaBoost f1score: 0.6140350877192983
+XGBoost Accuracy: 0.85
+XGBoost f1score: 0.7411764705882353
+Random Forest Accuracy: 0.9
+Random Forest f1score: 0.7962962962962963
+SVM Accuracy: 0.85
+SVM f1score: 0.7411764705882353
+
+- 사고유형 : 차대차,차대사람
+AdaBoost Accuracy: 0.9098228663446055
+AdaBoost f1score: 0.6086956521739131
+XGBoost Accuracy: 0.9194847020933977
+XGBoost f1score: 0.72551411641687
+Random Forest Accuracy: 0.9243156199677939
+Random Forest f1score: 0.7622164224051394
+SVM Accuracy: 0.9098228663446055
+SVM f1score: 0.6573426573426574
